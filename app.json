@@ -1,7 +1,7 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "sweetgirlop",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ sweetgirl. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/66b21cf2466ccd2d94ca1.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/singh7050/LEGENDBOT/",
   "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
